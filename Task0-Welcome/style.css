@@ -4,21 +4,21 @@ title{
 body {
   text-align: center;
   font-family: monospace;
-  background:url(./101.jpg)  no-repeat center center;
+  background:url(./background.jpg)  no-repeat center center;
   background-size:cover;
 }
 h1{
-  color:white
+  color:gray
 }
 h2{
-  color:white
+  color:gray
 }
 h3{
-  color:white
+  color:gray
 }
 p{
   font-size:20px;
-  color:cyan
+  color:black
 }
   img {
   border: 3px solid #ddd;
